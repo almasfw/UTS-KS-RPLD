@@ -9,7 +9,7 @@ Dataset A. : https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_1
 Dataset B : https://public.idseq.net/?fbclid=IwAR2hXJDz11StiJ7DD2HXshKn-X39kSLXsgP3UUalWU58g-8m5A3FIhbfEIw \
 Dataset C: https://www.ncbi.nlm.nih.gov/search/all/?term=SARS-CoV-2 \
 Dataset D: https://docs.google.com/spreadsheets/d/1YsoqfsW0M4KeME4QV2zCky1xvq5LfSQhs3772WE0HNU/htmlview \
-Dataset E: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508 \
+Dataset E: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508 
 
 Format pengumpulan:\
 File berbentuk Jupyter Notebook lengkap dengan penjelasan/ narasi kode.\
