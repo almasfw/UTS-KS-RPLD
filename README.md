@@ -1,5 +1,5 @@
 # UTS-KS-RPLD
-Tugas pengganti UTS\
+Repository ini berisi hasil pengerjaan tugas pengganti UTS dari mata kuliah Kapita Selekta Rekayasa Perangkat Lunak dan Data: Data Science.\
 Soal:
 
 Lakukan Exploratory Data Analysis serta Data Mining untuk kasus COVID-19.\
